@@ -13,11 +13,12 @@ A complete end-to-end logistics and supply chain solution built with **React**, 
 |----|----------------------------------------------|------|
 | 1  | Project Code                                | [View](https://github.com/Aadi2355/ShipSmart-) |
 | 2  | Project Report                              | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/DBMS%20FINAL%20REPORT%20F.pdf) |
-| 3  | Final PPT                                   | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/dbms%20final%20ppt.pptx) |
-| 4  | RA2411030030052_Certificate                 | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/Reg%2052%20Cert.jpeg) |
-| 5  | RA2411030030060_Certificate                 | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/Reg%2060%20Cert.jpeg) |
-| 6  | RA2411030030052_CourseReport                | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/course_report_52.pdf) |
-| 7  | RA2411030030060_CourseReport                | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/course%20reoport_60.docx) |
+| 3  | 1st PPT                                     | [View](https://github.com/Aadi2355/ShipSmart-/blob/8774184dbac6b55af1c648eab010fb7fc8c9c38f/ShipSmart%201st.pdf) |
+| 4  | Final PPT                                   | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/dbms%20final%20ppt.pptx) |
+| 5  | RA2411030030052_Certificate                 | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/Reg%2052%20Cert.jpeg) |
+| 6  | RA2411030030060_Certificate                 | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/Reg%2060%20Cert.jpeg) |
+| 7  | RA2411030030052_CourseReport                | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/course_report_52.pdf) |
+| 8  | RA2411030030060_CourseReport                | [View](https://github.com/Aadi2355/ShipSmart-/blob/70a1942a0b1f97757e1ddfd0d4d874af39c265cb/course%20reoport_60.docx) |
 
 ---
 
